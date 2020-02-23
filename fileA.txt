@@ -3,3 +3,8 @@ This is my first commit.
 feature 1
 
 feature 3
+feature2
+
+
+
+feature 4
