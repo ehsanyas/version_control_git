@@ -1,0 +1,2 @@
+fileCC is modified and commit --amend to master
+fileCC is modified and commit --amend --no-edit this will modify the file but not the messge of the commit
