@@ -1,0 +1,1 @@
+file B changed for interactive rebase typo
